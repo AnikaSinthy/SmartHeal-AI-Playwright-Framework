@@ -1,0 +1,1 @@
+Enterprise-grade Test Automation Framework built with Java and Playwright. It features a custom AI Self-Healing engine via Google Gemini API to dynamically recover from broken locators. Implements Fluent Page Object Model (POM) and AI-driven Visual Auditing to ensure UI integrity, significantly reducing script maintenance
